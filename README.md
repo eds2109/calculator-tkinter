@@ -21,5 +21,4 @@ Installation.
 [Учебное пособие по калькулятору питона - Начало работы с Tkinter.](https://www.simplifiedpython.net/python-calculator/)
 
 Установка.
-
 [Для запуска программы установите tkinter.](https://riptutorial.com/tkinter/example/3206/installation-or-setup)
