@@ -12,13 +12,3 @@ Installation.
 
 <img src="calc.png" alt="" width="150"/> 
 
-
-Обучение языку Python. 
-Расширение навыков программирования.
-
-Калькулятор на Python - создание простого калькулятора GUI с помощью Tkinter.
-
-[Учебное пособие по калькулятору питона - Начало работы с Tkinter.](https://www.simplifiedpython.net/python-calculator/)
-
-Установка.
-[Для запуска программы установите tkinter.](https://riptutorial.com/tkinter/example/3206/installation-or-setup)
